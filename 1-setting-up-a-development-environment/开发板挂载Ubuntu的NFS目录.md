@@ -6,7 +6,7 @@
 
 NFS 实现了一个跨越网络的文件访问功能，如下图可以简要说明其原理。其 整个架构为 Client-Server 架构，客户端和服务端通过 RPC 协议进行通信，RPC 协议可以简单的理解为一个基于 TCP 的应用层协议，它简化命令和数据的传输。 NFS 最大的特点是将服务端的文件系统目录树映射到客户端，而在客户端访问该 目录树与访问本地文件系统没有任何差别，客户端并不知道这个文件系统目录树 是本地的还是远在另外一台服务器。
 
-![NFS System](./../../../Users/meng.wang/Documents/CS%E4%B9%8B%E8%B7%AF/self-taught-experience/imgs/NFS%20System.png)
+![NFS System](../images/NFS%20System.png)
 
 **我们为什么要挂载 ubuntu 的 nfs 目录？** 
 
@@ -16,7 +16,7 @@ NFS 实现了一个跨越网络的文件访问功能，如下图可以简要说�
 
 开发板要想访问 Ubuntu,要先确定 ubuntu 的 IP：
 
-![get ubuntu ip](./../../../Users/meng.wang/Documents/CS%E4%B9%8B%E8%B7%AF/self-taught-experience/imgs/get_ubuntu_ip.png)
+![get ubuntu ip](../images/get_ubuntu_ip.png)
 
 ## NFS 的使用
 
