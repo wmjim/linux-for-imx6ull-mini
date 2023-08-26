@@ -61,7 +61,7 @@ CPU x86_64 (x86_64)
 
 接下来遇到了一个错误，
 
-![no module named formatter](./../../../Users/meng.wang/Documents/CS%E4%B9%8B%E8%B7%AF/self-taught-experience/imgs/no-module-named-formatter.png)
+![no module named formatter](./images/no-module-named-formatter.png)
 
 在网上查找原因：
 
@@ -107,7 +107,7 @@ source ~/.bashrc
 
 执行成功的结果如下图：
 
-![bsp sdk init](./../../../Users/meng.wang/Documents/CS%E4%B9%8B%E8%B7%AF/self-taught-experience/imgs/bsp_sdk_init.png)
+![bsp sdk init](./images/bsp_sdk_init.png)
 
 下载 IMX6ULL Miin 版源码：
 
