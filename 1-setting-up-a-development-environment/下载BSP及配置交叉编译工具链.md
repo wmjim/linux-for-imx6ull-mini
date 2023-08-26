@@ -1,4 +1,4 @@
-# 下载 BSP 及配置交叉bian'yi工具链
+# 下载 BSP 及配置交叉编译工具链
 
 100ask_imx6ull 开发板的 BSP 都保存在 git 站点上，通过 repo 命令进行统一管理。
 
