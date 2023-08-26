@@ -7,11 +7,11 @@
 
 - [查看和设置环境变量](./1-setting-up-a-development-environment/查看和设置环境变量.md)
 
-- [下载 BSP 及配置交叉编译工具链](./1-setting-up-a-development-environment/下载 BSP 及配置交叉编译工具链.md)
+- [下载BSP及配置交叉编译工具链](./1-setting-up-a-development-environment/下载 BSP 及配置交叉编译工具链.md)
 
-- [开发板挂载 Ubuntu 的 NFS 目录](./1-setting-up-a-development-environment/开发板挂载 Ubuntu 的 NFS 目录.md)
+- [开发板挂载Ubuntu的NFS目录](./1-setting-up-a-development-environment/开发板挂载 Ubuntu 的 NFS 目录.md)
 
-- [开发板的第一个 APP 实验](./1-setting-up-a-development-environment/开发板的第一个 APP 实验.md)
+- [开发板的第一个APP实验](./1-setting-up-a-development-environment/开发板的第一个 APP 实验.md)
 
 ## 二、嵌入式 Linux 应用开发基础
 
