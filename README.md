@@ -13,9 +13,14 @@
 
 - [开发板的第一个APP实验](./1-setting-up-a-development-environment/开发板的第一个APP实验.md)
 
+- [开发板的第一个驱动实验](./1-setting-up-a-development-environment/开发板的第一个驱动实验.md)
+
+- [构建bootloader、内核、文件系统](./1-setting-up-a-development-environment/构建bootloader、内核、文件系统.md)
+
 ## 二、嵌入式 Linux 应用开发基础
 
-
+- [GCC编译器](./2-Linux-application-development-foundations/GCC编译器.md)
+- [HelloWorld的背后](./2-Linux-application-development-foundations/HelloWorld的背后.md)
 
 ## 三、嵌入式 Linux 驱动开发基础
 
